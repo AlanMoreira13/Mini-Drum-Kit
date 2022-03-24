@@ -1,6 +1,6 @@
 # Mini-Drum-Kit
 ##
-Fiz esse projetinho pra exercitar um pouco do meu JAVASCRIPT e também CSS e HTML.
+Fiz esse projetinho pra exercitar um pouco do meu JAVASCRIPT e também CSS e HTML!
 ##
 🔗https://alanmoreira13.github.io/Mini-Drum-Kit/
 ##
