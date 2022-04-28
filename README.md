@@ -1,7 +1,9 @@
 # Mini-Drum-Kit
-##
-Fiz esse projetinho pra exercitar um pouco do meu JAVASCRIPT e também CSS e HTML!
-##
+Fiz esse projeto pra exercitar meus conhecimentos! <br>
+✔ HTML <br>
+✔ CSS <br>
+✔ Javascript <br>
+#
 🔗https://alanmoreira13.github.io/Mini-Drum-Kit/
 ##
 ![Captura de Tela (32)](https://user-images.githubusercontent.com/88805398/159814771-2e04a178-99dc-413e-ad5d-64dbf3c0e807.png)
