@@ -57,5 +57,5 @@ main{
     transform: scale(1.3);
     border-color: violet;
     box-shadow: 0 0 40px #fff;
-    text-shadow: 0 0 10px #fff;
+  text-shadow: 0 0 10px #fff;
 }
